@@ -1,3 +1,5 @@
 import streamlit
 
-streamlit.title('I LOVE YOU BUJJI')
+streamlit.title('I LOVE YOU')
+
+streamlit.title('BUUUUJJIII')
