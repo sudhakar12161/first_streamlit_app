@@ -1,5 +1,8 @@
 import streamlit
 
-streamlit.title('I LOVE YOU')
+streamlit.title('Our Health Diet')
 
-streamlit.title('BUUUUJJIII')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Bread, Egg, Avacado')
+streamlit.text('Milk with boost')
